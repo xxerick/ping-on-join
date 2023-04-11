@@ -3,7 +3,7 @@
 **This is a bot for POJ (Ping on join bot).**
 
 # Installation
-- `npm i`
+- `npm i discord.js`
 - `config index.js`
 - `node index.js`
 
